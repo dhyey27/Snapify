@@ -8,13 +8,13 @@ It is a real-time chat application to provide users' a hassle free chatting expe
 ![image](Screenshots/Register.png)
 
 2. Login:
-![image](Screenshots\Login.png)
+![image](Screenshots/Login.png)
 
 3. SetAvatar:
-![image](Screenshots\Set%20avatar.png)
+![image](Screenshots/Set%20avatar.png)
 
 4. Welcome:
-![image](Screenshots\Welcome.png)
+![image](Screenshots/Welcome.png)
 
 5. Chat:
-![image](Screenshots\Chat.png)
+![image](Screenshots/Chat.png)
